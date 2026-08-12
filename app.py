@@ -27,7 +27,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL_PATH = Path(__file__).parent / "weights" / "best.pt"
+MODEL_PATH = "best.pt"
 
 
 # --------------------------------------------------------------------------
