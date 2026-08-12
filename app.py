@@ -27,7 +27,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL_PATH = "best.pt"
+MODEL_PATH = Path("best.pt")
 
 
 # --------------------------------------------------------------------------
